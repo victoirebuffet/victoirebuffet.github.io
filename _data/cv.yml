@@ -76,27 +76,29 @@
   type: time_table
   contents:
     - title: Workshop Art & Anthropocène
-      institution: ENSAD Dijon
+      location: ENSAD Dijon
       year: 2025
       description:
         - Speaker
-    - title: "Climat: Imaginons 2050"
-      institution: With Valérie Masson-Delmotte
+    - title: "Climat: Imaginons 2050 (with Valérie Masson-Delmotte)"
+      location: Université Grenoble Alpes
       year: 2024
       description:
         - Speaker & Organizer
     - title: Antarctic AR Workshop
+      location: Boulder, CO
       year: 2023
       description:
-        - Speaker
+        - Speaker (<i>Remote</i>)
     - title: A.G.I.D. pour ta planète !
       year: 2022
       description:
         - Speaker
     - title: 4th International Atmospheric Rivers Conference
+      location: Santiago de Chile
       year: 2022
       description:
-        - Speaker
+        - Speaker (<i>Remote</i>)
 - title: Review
   type: list
   contents:

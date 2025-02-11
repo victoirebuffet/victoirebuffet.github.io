@@ -1,34 +1,42 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  PhD Student at <a href="https://www.ige-grenoble.fr/" target="_blank">Institut des Géosciences de l'Environnement</a>, Grenoble, France.  
+  <br>Also at <a href="https://biogeosciences.ube.fr/" target="_blank">Biogéosciences</a>. Dijon, France.
+
+
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: true # Makes the profile picture circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <div style="text-align: center;">
+      <p>Institut des Géosciences de l'Environnement</p>
+      <p>54 rue Molière</p>
+      <p>38400 Saint Martin d'Hères</p>
+      <p>France</p>
+    </div>
+  
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I started out with a guitar in hand, not a climate model. After high school, I double-majored in science and music in Paris—mainly to build my music network, while keeping my parents reassured. In reality, music was my whole world. I played, composed, and managed to make a living from it. Then COVID hit, and suddenly the world was divided into "essential" and "non-essential." That stuck with me. Passionate about nature, animals, and the environment, I realized I wanted to do more than just observe from the sidelines. So, while still playing music, I turned back to science—this time, with a real sense of purpose.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+That’s how I landed in climatology. Now, as a PhD researcher, I study Atmospheric Rivers making landfall on the Antarctic continent. These intense moisture transport systems shape Antarctica’s climate, currently playing a crucial role in maintaining its mass balance. However, their influence extends far beyond the ice sheet, as they are embedded in large-scale atmospheric circulation, carrying heat and moisture from lower latitudes to the poles. Their impact on global climate dynamics, ice sheet stability, and sea level rise makes them key players in the Earth’s climate system. By refining our understanding of ARs, I aim to improve climate projections and deepen our knowledge of their role in Antarctic climate variability.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond research, I love learning new stuff, wandering outdoors, lifting heavy things, and writing music. I also share my workspace with Kinaï, my professional canine meeting disrupter, and Yoko, my feline assistant, who takes her role as a keyboard napper very seriously.

@@ -174,7 +174,7 @@ Here is a list of the main components that you may want to delete, and how to do
 To remove the blog, you have to:
 
 - delete [\_posts](_posts/) directory
-- delete blog page 
+- delete blog page
 - remove reference to blog page in our
 - remove the `latest_posts` part in [\_pages/about.md](_pages/about.md)
 - remove the `Blog` section in the [\_config.yml](_config.yml) file and the related parts, like the `jekyll-archives`
@@ -204,7 +204,7 @@ To remove the news section, you can:
 To remove the projects, you can:
 
 - delete the [\_projects](_projects/) directory
-- delete the projects page 
+- delete the projects page
 - remove reference to projects page in our
 - remove projects part in the `Collections` section in the [\_config.yml](_config.yml) file
 
@@ -219,7 +219,7 @@ To remove the publications, you can:
 
 - delete the [\_bibliography](_bibliography/) directory
 - delete the publications page [\_pages/publications.md](_pages/publications.md)
-- remove reference to publications page in our 
+- remove reference to publications page in our
 - remove `Jekyll Scholar` section in the [\_config.yml](_config.yml) file
 
 You can also:

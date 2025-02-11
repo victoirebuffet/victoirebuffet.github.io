@@ -1,97 +1,161 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
+      value: Victoire Buffet
+    - name: Birth
+      value: December 1, 1996
+    - name: Phone
+      value: <a href="tel:+33769312755">(+33) 769312755</a>
+- title: Experience
+  type: time_table
+  contents:
+    - title: Doctoral Researcher
+      institution: Institut des Géosciences de l'Environnement, Université Grenoble Alpes
+      year: 2024 - Present
+      description:
+        - <u>Research:</u> Antarctic Atmospheric Rivers, their life-cycle,
+          characteristics, impact on the Antarctic ice sheet (present and
+          future)
+        - <u>Supervisors:</u> Vincent Favier (UGA) and Benjamin Pohl (CNRS)
+    - title: Antarctic Atmospheric River Detection Based on Meridional Energy
+        Transfers
+      institution: Institut des Géosciences de l'Environnement, Université Grenoble Alpes
+      year: 2024
+      description:
+        - <u>Degree:</u> 2nd Year Master's Research Internship [<i>8 months</i>]
+        - <u>Supervisors:</u> Vincent Favier (UGA) and Benjamin Pohl (CNRS)
+    - title: "Atmospheric Rivers at the Kerguelen Islands: A Story through Weather
+        Types"
+      institution: Biogéosciences, Université de Bourgogne Franche-Comté
+      year: 2023
+      description:
+        - <u>Degree:</u> 1st Year Master's Research Internship [<i>6 months</i>]
+        - <u>Supervisors:</u> Vincent Favier (UGA) and Benjamin Pohl (CNRS)
+    - title: "Homo Erectus in Sundaland: Investigating Potential Extinction Due to
+        Thermal Stress Using the CMIP6 IPSL Model"
+      institution: ISTerre, Université Grenoble Alpes
+      year: 2023
+      description:
+        - <u>Degree:</u> 1st Year Master's Research Internship [<i>3 months</i>]
+        - <u>Supervisors:</u> Laurent Husson (CNRS) and Anta-Clarisse Sarr (UGA)
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Université Grenoble Alpes, Grenoble, France
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - <u>Degree:</u> Atmospheric Science
+        - <u>Courses:</u> Scientific Oral Communication & Writing, ...
+    - title: MSc
+      institution: Université Grenoble Alpes, Grenoble, France
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+        - "<u>Degree:</u> Climate System: Atmosphere, Hydrosphere, Cryosphere"
+        - <u>Courses:</u> Meteorology, Climate Variability, Hydrology, Fluid
+          Mechanics, Environmental Modelling, Remote Sensing, Geostatistics,
+          Machine Learning, Climate Change
+    - title: BSc
+      institution: Université Pierre et Marie Curie, Paris, France
+      year: 2014 - 2017
+      description:
+        - <u>(Double) Degree:</u> Engineering & Muscology
+- title: Supervision
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Characterization of Atmospheric River Intrusions on the Antarctic
+        Continent
+      institution: Institut des Géosciences de l'Environnement, Grenoble, France
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        - Master's 1st Year Internship, to start in May 2025. Supervising Jeremy
+          Brice with Vincent Favier (UGA) and Benjamin Pohl (CNRS) [<i>3
+          months</i>]
+- title: Communication
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+    - title: Workshop Art & Anthropocène
+      institution: ENSAD Dijon
+      year: 2025
+      description:
+        - Speaker
+    - title: "Climat: Imaginons 2050"
+      institution: With Valérie Masson-Delmotte
+      year: 2024
+      description:
+        - Speaker & Organizer
+    - title: Antarctic AR Workshop
+      year: 2023
+      description:
+        - Speaker
+    - title: A.G.I.D. pour ta planète !
+      year: 2022
+      description:
+        - Speaker
+    - title: 4th International Atmospheric Rivers Conference
+      year: 2022
+      description:
+        - Speaker
+- title: Review
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Journal of Geophysical Research (JGR): Atmospheres"
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Polar atmospheric science
+      items:
+        - Atmospheric rivers
+        - Extreme weather impacts on ice sheets
+        - Synoptic drivers of extreme weather
+        - Interaction of heat transport with Rossby Waves
+        - Teleconnections with lower latitudes
+    - title: Climate change
+      items:
+        - Detection & Attribution
+        - Societal impacts of climate change
+- title: Skills
+  type: list_groups
+  contents:
+    - category: Climate Science
+      icon: fa-solid fa-cloud
+      items:
+        - name: Atmospheric Rivers
+        - name: Hydrological Extremes
+        - name: Antarctic Climate
+        - name: Snowfall & Precipitation
+        - name: Impact on Ice Sheet Mass Balance
+        - name: Weather Types
+    - category: Data Analysis & Visualization
+      icon: fa-solid fa-chart-line
+      items:
+        - name: Python (xarray, numpy, scipy, pandas, matplotlib)
+        - name: Geospatial Data Processing
+        - name: Statistical Analysis
+        - name: Machine Learning
+    - category: Statistical Methods
+      icon: fa-solid fa-calculator
+      items:
+        - name: Extreme Value Analysis
+        - name: Hypothesis Testing
+        - name: Time Series Analysis
+        - name: Trend Detection
+        - name: Cluster Analysis
+        - name: Bootstrapping
+- title: Languages
+  type: list_groups
+  contents:
+    - category: French
+      items:
+        - name: Fluent
+    - category: English
+      items:
+        - name: C1
+- title: Hobbies
+  type: list
+  contents:
+    - Music production & composition
+    - Canicross
+    - Hiking
+    - Weightlifting

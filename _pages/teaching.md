@@ -2,10 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 6
 ---
+
 <h2 class="mt-4">2025</h2>
 
 <div class="card mt-3">

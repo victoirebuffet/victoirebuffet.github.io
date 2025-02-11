@@ -7,7 +7,7 @@ first_name: Victoire
 middle_name:
 last_name: Buffet
 contact_note: >
-  The best way to reach me is via my e-mail address. 
+  The best way to reach me is via my e-mail address.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student in Atmospheric sciences, researching Antarctic Atmospheric Rivers and climate impacts.
 footer_text: >
@@ -118,7 +118,6 @@ giscus:
 # Disqus comments (DEPRECATED)
 disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
 
 # -----------------------------------------------------------------------------
 # Newsletter

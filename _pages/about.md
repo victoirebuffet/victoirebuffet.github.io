@@ -6,8 +6,6 @@ subtitle: >
   PhD Student at <a href="https://www.ige-grenoble.fr/" target="_blank">Institut des Géosciences de l'Environnement</a>, Grenoble, France.  
   <br>Also at <a href="https://biogeosciences.ube.fr/" target="_blank">Biogéosciences</a>. Dijon, France.
 
-
-
 profile:
   align: right
   image: prof_pic.png
@@ -19,7 +17,6 @@ profile:
       <p>38400 Saint Martin d'Hères</p>
       <p>France</p>
     </div>
-  
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

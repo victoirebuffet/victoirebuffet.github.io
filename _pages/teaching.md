@@ -13,7 +13,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Meteorology</h5>
+        <h5 class="font-weight-bold" style="color: #18c7c7;">Meteorology</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #18c7c7; color: white; border-radius: 5px; padding: 5px 10px;">
@@ -47,7 +47,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Climate Extremes</h5>
+        <h5 class="font-weight-bold" style="color: #18c7c7;">Climate Extremes</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #18c7c7; color: white; border-radius: 5px; padding: 5px 10px;">

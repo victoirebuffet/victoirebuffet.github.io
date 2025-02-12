@@ -5,8 +5,6 @@
       value: Victoire Buffet
     - name: Birth
       value: December 1, 1996
-    - name: Phone
-      value: <a href="tel:+33769312755">(+33) 769312755</a>
 - title: Experience
   type: time_table
   contents:

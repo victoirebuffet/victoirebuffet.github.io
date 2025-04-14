@@ -74,35 +74,29 @@
   type: time_table
   contents:
     - title: "Stand Up For Science: Perte de données et changement climatique"
-      location: Université Bourgogne Europe
       year: 2025
       description:
-        - Presenter
+        - Presenter, Université Bourgogne Europe
     - title: Workshop Art & Anthropocène
-      location: ENSAD Dijon
       year: 2025
       description:
-        - Speaker
+        - Speaker, ENSAD Dijon
     - title: "Climat: Imaginons 2050 (with Valérie Masson-Delmotte)"
-      location: Université Grenoble Alpes
       year: 2024
       description:
-        - Speaker & Organizer
+        - Speaker & Organizer, Université Grenoble Alpes
     - title: Antarctic AR Workshop
-      location: University of Colorado Boulder
       year: 2023
       description:
-        - Speaker (<i>Remote</i>)
+        - Speaker (<i>Remote</i>), University of Colorado Boulder, CO
     - title: A.G.I.D. pour ta planète !
-      location: Université Grenoble Alpes
       year: 2022
       description:
-        - Speaker
+        - Speaker, Université Grenoble Alpes
     - title: 4th International Atmospheric Rivers Conference
-      location: Santiago de Chile
       year: 2022
       description:
-        - Speaker (<i>Remote</i>)
+        - Speaker (<i>Remote</i>), Santiago de Chile
 - title: Review
   type: list
   contents:
@@ -111,10 +105,9 @@
   type: time_table
   contents:
     - title: IDEX Outgoing Mobility Fellowship
-      location: Université Grenoble Alpes
       year: 2025
       description:
-        - "Competitive funding awarded to support international research stays (1–6 months) during the PhD, under the IDEX Formation program."
+        - "Competitive funding awarded to support international research stays (1–6 months) during the PhD, under the IDEX Formation program, Université Grenoble Alpes."
 - title: Research Interests
   type: nested_list
   contents:

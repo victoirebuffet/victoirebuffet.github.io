@@ -89,11 +89,12 @@
       description:
         - Speaker & Organizer
     - title: Antarctic AR Workshop
-      location: Boulder, CO
+      location: University of Colorado Boulder
       year: 2023
       description:
         - Speaker (<i>Remote</i>)
     - title: A.G.I.D. pour ta planète !
+      location: Université Grenoble Alpes
       year: 2022
       description:
         - Speaker

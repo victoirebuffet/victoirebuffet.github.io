@@ -103,12 +103,6 @@
       year: 2022
       description:
         - Speaker (<i>Remote</i>)
-- title: Fellowships and Awards
-  type: time_table
-  contents:
-    - title: IDEX Outgoing Mobility Fellowship
-      location: Université Grenoble Alpes
-      year: 2025
 - title: Review
   type: list
   contents:

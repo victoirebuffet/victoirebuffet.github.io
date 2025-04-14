@@ -73,7 +73,7 @@
 - title: Communication
   type: time_table
   contents:
-    - title: Stand Up For Science: Perte de données et changement climatique
+    - title: "Stand Up For Science: Perte de données et changement climatique"
       location: Université Bourgogne Europe
       year: 2025
       description:
@@ -107,6 +107,14 @@
   type: list
   contents:
     - "Journal of Geophysical Research (JGR): Atmospheres"
+- title: Grants and Awards
+  type: time_table
+  contents:
+    - title: IDEX Outgoing Mobility Fellowship
+      location: – Université Grenoble Alpes
+      year: 2025
+      description:
+        - "Competitive funding awarded to support international research stays (1–6 months) during the PhD, under the IDEX Formation program."
 - title: Research Interests
   type: nested_list
   contents:

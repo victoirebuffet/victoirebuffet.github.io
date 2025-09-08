@@ -62,17 +62,20 @@
 - title: Supervision
   type: time_table
   contents:
-    - title: Characterization of Atmospheric River Intrusions on the Antarctic
-        Continent
+    - title: Characterization of Atmospheric River Intrusions on the Antarctic Continent
       institution: Institut des Géosciences de l'Environnement, Grenoble, France
       year: 2025
       description:
-        - Master's 1st Year Internship, to start in May 2025. Supervising Jeremy
-          Brice with Vincent Favier (UGA) and Benjamin Pohl (CNRS) [<i>3
-          months</i>]
+        - Master's 1st Year Internship, May–July 2025. Supervised Jeremy Brice with Vincent Favier (UGA) and Benjamin Pohl (CNRS) [<i>3 months</i>]
+
 - title: Communication
   type: time_table
   contents:
+    - title: Antarctic Atmospheric River Workshop
+      year: 2025
+      description:
+        - Organizer & Presenter, Université Grenoble Alpes
+        - New website: <a href="https://antarcticarcticargroup.github.io/">antarcticarcticargroup.github.io</a>
     - title: "Stand Up For Science: Perte de données et changement climatique"
       year: 2025
       description:
@@ -107,7 +110,7 @@
     - title: IDEX Outgoing Mobility Fellowship
       year: 2025
       description:
-        - "Competitive funding awarded to support international research stays (1–6 months) during the PhD, under the IDEX Formation program, Université Grenoble Alpes."
+        - "Competitive funding awarded under the IDEX Formation program, Université Grenoble Alpes, supporting a 1.5-month research stay at Victoria University of Wellington, New Zealand, supervised by Kyle Clem."
 - title: Research Interests
   type: nested_list
   contents:

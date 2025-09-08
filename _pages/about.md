@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof-pic.png
   image_circular: true # Makes the profile picture circular
   more_info: >
     <div style="text-align: center;">
